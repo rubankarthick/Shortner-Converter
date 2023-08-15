@@ -1,7 +1,7 @@
 # Shortner-Converter-Bot-V2
 Convert Any Shortner Link To Your With Post
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ANY+SHORTNER+BULK+POST+CONVERTER!;CREATED+BY+TECHNICAL+CYNITE!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ANY+SHORTNER+BULK+POST+CONVERTER!;CREATED+BY+RUBAN!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 </p>
@@ -9,13 +9,13 @@ Convert Any Shortner Link To Your With Post
   <b>Shortner-Converter-Bot-V2</b>
 </h1>
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Channel [@RE_OFFICIAL](t.me/re_official)
 
 ## Credits 
 
-* [![DK](https://img.shields.io/static/v1?label=DKBOTZ&message=Telegram&color=critical)](https://t.me/DKBOTZ)
-* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/Cynitesupport)
+* [![RE](https://img.shields.io/static/v1?label=DKBOTZ&message=Telegram&color=critical)](https://t.me/ridzy96)
+* [![Contact](https://img.shields.io/static/v1?label=Contact&message=On+Telegram&color=critical)](https://t.me/ridzy96)
 
 ## Deploy 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyniteofficial/Shortner-Converter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rubankarthick/Shortner-Converter/tree/main)
